@@ -40,10 +40,10 @@ mumble [--length=N] [--symbols=true|false] [--copy]
 
 ```bash
 mumble
-# e.g. "futiboda9@"
+# e.g. "futiboruda9o"
 # Estimated entropy: 67.84 bits
 
-mumble --length=16 --symbols=false
+mumble --length=16
 # e.g. "dopemirukinozuva"
 
 mumble --copy
